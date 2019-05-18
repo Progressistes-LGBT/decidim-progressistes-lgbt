@@ -15,7 +15,7 @@ gem "uglifier", "~> 4.1"
 
 gem "faker", "~> 1.9"
 
-# Added by me
+# Added by Progressistes LGBT
 gem "figaro"
 
 group :development, :test do
